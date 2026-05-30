@@ -1,9 +1,10 @@
 # 在线考试系统
 
 一个基于 Spring Boot 3、Vue 3、MySQL 的在线考试系统，包含管理员端、教师端和学生端。项目目前处于课程设计/毕业设计原型阶段，核心考试流程、题库、课程班、阅卷、成绩和切屏检测已经完成，适合继续扩展为更完整的教学考试平台。
-![alt text](<屏幕截图 2026-05-30 215124.png>)
-![alt text](<屏幕截图 2026-05-30 215217.png>)
-![alt text](<屏幕截图 2026-05-30 215143.png>)
+<img width="2879" height="1465" alt="屏幕截图 2026-05-30 215124" src="https://github.com/user-attachments/assets/049a5090-3d63-481c-bd44-711999c57881" />
+<img width="2879" height="1465" alt="屏幕截图 2026-05-30 215143" src="https://github.com/user-attachments/assets/81a193b3-6401-4f56-a17e-63551ece4be1" />
+<img width="2879" height="1473" alt="屏幕截图 2026-05-30 215217" src="https://github.com/user-attachments/assets/c73a1d7f-34ff-4320-8767-cf791922ca80" />
+
 ## 技术栈
 
 - 后端：Spring Boot 3.3.5、Spring Web、Spring Data JPA、Validation
